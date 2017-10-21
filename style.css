@@ -1,0 +1,45 @@
+html
+{
+    position: relative;
+    min-height: 100%;
+}
+.btn-blue
+{
+    background-color: #000062;
+    color: #fff;
+}
+.btn-blue:hover
+{
+    color: #fff;
+}
+.navbar-invest
+{
+    background-color: #0089ff;
+}
+.footer{
+    height:40px;
+    line-height:50px;
+    background:#0089ff;;
+    color:#fff;
+    position: absolute;
+    bottom:-20px;
+ 
+    width:100%; /*biar memenuhi layar*/
+}
+.text-color
+{
+    color: #fff;
+}
+.panel-blue
+{
+    background-color: #000062;
+    color: #ffffff;
+}
+#panel-footer
+{
+    background-color: #ffffff;
+}
+li
+{
+    display: block;
+}
